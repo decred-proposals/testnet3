@@ -1,0 +1,1 @@
+{"version":2,"newstatus":4,"signature":"9c9442dfea0eb0a6ccb1af26f14a78179b7de2dd1e531f0bdc2cfbb377ccc29bfc775cccb6cf1c27711bab6d3c6c6d1eae90af7e1254dd48f69aeaa7cd79670c","adminpubkey":"76106a1c765b14513884d5317d13e33bfbfa7586f071c619a45ee2f6c190ce7d","timestamp":1587679765}
