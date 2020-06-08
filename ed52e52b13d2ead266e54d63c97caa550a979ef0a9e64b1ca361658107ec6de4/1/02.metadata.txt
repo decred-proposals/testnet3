@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"d3218976fbaff7256cd62ff28b94aceb097231691a5786892d2a38bc4fed39de","newstatus":4,"timestamp":1572254566}
+{"version":1,"adminpubkey":"d3218976fbaff7256cd62ff28b94aceb097231691a5786892d2a38bc4fed39de","newstatus":4,"timestamp":1572254566}{"version":2,"newstatus":6,"statuschangemessage":"invalid proposal","signature":"a2f163c0a0acd72241978a4d0bca88bd1c93eec3c23ea9ad9da1c2133a7084d00389309b9c8f2cf5c6ce2309ed6c1991493ab83aa9aea3945fb5a4308f00e00c","adminpubkey":"09d15f2c447cf7a88bb7a73f648f4767840621d4776d8f5a0c434e5fe2d29ce6","timestamp":1591646925}
